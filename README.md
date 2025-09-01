@@ -195,7 +195,7 @@
             <!-- Slide 1 -->
             <div class="carousel-slide active">
                 <div class="slide-content">
-                    <div class="slide-image" style="background-image: url('https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80')"></div>
+                    <div class="slide-image" style="background-image: url('https://media.posterlounge.com/img/products/770000/767282/767282_poster.jpg')"></div>
                     <div class="slide-text">
                         <h2>Introducción al Tema</h2>
                         <p>Comprende los conceptos básicos y fundamentales que sentarán las bases para tu aprendizaje. Este módulo te introducirá a los principios esenciales.</p>
